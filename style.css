@@ -396,7 +396,7 @@ footer p:nth-child(2) {
     font-size: 14px;
 }
 
-.example {
+/* .example {
     overflow: scroll;
     border: solid 3px black;
     height: 500px;
@@ -405,4 +405,4 @@ footer p:nth-child(2) {
 }
 .example::-webkit-scrollbar{
     display: none;
-}
+} */
